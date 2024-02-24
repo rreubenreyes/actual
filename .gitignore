@@ -1,0 +1,5 @@
+.DS_Store
+.terraform
+.envrc
+*.tfvars
+node_modules
